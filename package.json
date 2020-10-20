@@ -1,0 +1,19 @@
+{
+  "name": "jquery-validate-unobtrusive-hooks",
+  "version": "1.0.0",
+  "description": "extend jQuery.Validate.Unobtrusive to be able to hook into other things",
+  "main": "bobe",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Islam-alshiki/jquery-validate-unobtrusive-hooks.git"
+  },
+  "author": "islam94 <eslam.alshiki94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Islam-alshiki/jquery-validate-unobtrusive-hooks/issues"
+  },
+  "homepage": "https://github.com/Islam-alshiki/jquery-validate-unobtrusive-hooks#readme"
+}
